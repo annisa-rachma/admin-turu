@@ -10,7 +10,7 @@ Welcome to our Lodging Website Content Management System (CMS) application! This
 
 ## Features
 ### User Roles:
-- Admins: Can change lodging statuses, edit lodging details, add lodgings, and add lodging types.
+- Admins: Can change lodging status, edit lodging details, add lodgings, and add lodging types.
 - Staff: Automatically registered via Google login, can edit their own lodgings, and add lodgings and types.
 
 ### Lodging Management:
