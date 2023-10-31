@@ -4,7 +4,9 @@
 Welcome to our Lodging Website Content Management System (CMS) application! This README provides essential information to help you understand and use the CMS for managing lodgings.
 
 ## Links
-- Live Site URL: [Live site](https://turu-cms.web.app)
+- Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
+- Live Site Client-Side URL: [Live site](https://turu-client.web.app)
+
 
 ## Features
 ### User Roles:
