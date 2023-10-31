@@ -6,7 +6,7 @@ Welcome to our Lodging Website Content Management System (CMS) application! This
 ## Links
 - Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
 - Live Site Client-Side URL: [Live site](https://turu-client.web.app)
-
+- Server repository : [Repo server](https://github.com/annisa-rachma/server-turu)
 
 ## Features
 ### User Roles:
