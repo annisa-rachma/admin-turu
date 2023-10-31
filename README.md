@@ -1,7 +1,7 @@
 
 # Turu CMS
 ## Introduction
-This README provides information to help you understand and use the CMS for managing lodgings.
+This README provides information to help understand and use the CMS for managing lodgings.
 
 ## Links
 - Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
