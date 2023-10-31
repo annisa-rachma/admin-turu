@@ -36,7 +36,7 @@ This README provides information to help understand and use the CMS for managing
 - Admins and staff can add new lodgings and lodging types.
 
 ### Editing Lodgings:
-- Admins can edit all lodging details and change statuses.
+- Admins can edit all lodging details and change status.
 - Staff can edit only their own lodging details.
 
 ### Viewing History:
