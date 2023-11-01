@@ -5,6 +5,7 @@ This README provides information to help understand and use the CMS for managing
 
 ## Links
 - Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
+  email: admin1@mail.com, password : 123456
 - Live Site Client-Side URL: [Live site](https://turu-client.web.app)
 - Server repository : [Repo server](https://github.com/annisa-rachma/server-turu)
 
